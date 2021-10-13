@@ -136,3 +136,13 @@
             margin-left: -20px;
         }
     }
+@media screen and (max-width: 208px) {
+        .menu-item {
+            grid-template-columns: 225px 1fr;
+            gap: 0 1.25rem;
+            max-width: 40rem;
+        }
+        .photo {
+            height: 175px;
+        }
+    }
