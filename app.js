@@ -23,7 +23,7 @@ const menu = [{
 }, {
     id: 4,
     title: "pizza",
-    category: "night",
+    category: "dinner",
     price: `$12.92`,
     img: "./images/item-4.jpeg",
     desc: "Vegetables, including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, and more are also sold at many grocery stores, and are purchased similarly."
