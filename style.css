@@ -219,7 +219,7 @@
             position: fixed;
             margin-bottom: 90px;
             width: 100px;
-            right: -10px;
+            right: 0px;
         }
         .hungry {
             display: flex;
