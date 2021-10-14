@@ -129,6 +129,9 @@
             /* display: flex; */
             /* justify-content: start; */
         }
+        .hungry{
+            display:none;
+        }
         .section-center {
             display: grid;
             /* width: 20vw; */
