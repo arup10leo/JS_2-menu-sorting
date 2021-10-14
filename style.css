@@ -221,6 +221,15 @@
             width: 100px;
             right: -10px;
         }
+        .hungry {
+            display: flex;
+            width: 200px;
+            margin-left: 135vw;
+            font-size: 20px;
+            margin-top: 200px;
+            background: transparent;
+            position: absolute;
+        }
         .filter-btn {
             margin-top: 10px;
         }
